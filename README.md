@@ -81,7 +81,7 @@ Make sure the Firebase credentials JSON file is downloaded from your Firebase pr
 streamlit run app.py
 ```
 
-Visit [http://localhost:8501](http://localhost:8501) to use the app locally.
+Visit [http://localhost:8501](http://localhost:5000) to use the app locally.
 
 ---
 
