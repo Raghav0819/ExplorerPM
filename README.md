@@ -23,8 +23,8 @@ Follow these steps to run Explorer PM locally or deploy it to the cloud.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/explorer-pm.git
-cd explorer-pm
+git clone https://github.com/Raghav0819/Explorerpm.git
+cd ExplorerPM
 ```
 
 ---
